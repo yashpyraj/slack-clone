@@ -1,0 +1,7 @@
+wire framing--
+funtionality--
+sign up
+sign in
+create a channel 
+join
+scearch
